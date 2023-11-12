@@ -1,0 +1,23 @@
+#juego table{
+    margin:auto;
+    border-collapse: collapse;
+}
+
+h1 {
+    text-align: center;
+}
+
+.celda{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+    font-size: 2em;
+}
+
+.btn {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 15px;
+    cursor: pointer; 
+}
+
